@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jannik! 👋
 
-<!--
-**JannikJoachim/JannikJoachim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer | 4 Years Experience | Cloud-Native Enthusiast**
 
-Here are some ideas to get you started:
+I build scalable web applications and secure cloud infrastructures. My journey bridges the gap between clean frontend/backend code and robust DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Focus
+- **Languages:** PHP, Python, HCL, Javascript
+- **Cloud & Infrastructure:** AWS, Terraform, GitHub Actions
+- **Security:** Zero-Trust Architectures, Air-Gapped Networking, Infrastructure Compliance
+
+### 🚀 Highlight Project
+**[Secure EKS Platform](https://github.com/JannikJoachim/secure-eks-platform)** A production-ready, air-gapped Kubernetes environment built with Terraform and automated via OIDC-based CI/CD pipelines.
+
+---
+### 📫 How to reach me
+Feel free to reach out for technical discussions, collaboration, or professional inquiries:
+📧 **[jannik.joachim60@gmail.com](mailto:jannik.joachim60@gmail.com)**
