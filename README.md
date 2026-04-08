@@ -14,5 +14,4 @@ I build scalable web applications and secure cloud infrastructures. My journey b
 
 ---
 ### 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/jannik-joachim-179b28262/) | [GitHub Profile](https://github.com/JannikJoachim)
-📧 **[jannik.joachim60@gmail.com](mailto:jannik.joachim60@gmail.com)**
+[LinkedIn](https://www.linkedin.com/in/jannik-joachim-179b28262/) | [GitHub Profile](https://github.com/JannikJoachim) | **[jannik.joachim60@gmail.com](mailto:jannik.joachim60@gmail.com)**
